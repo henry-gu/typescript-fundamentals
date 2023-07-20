@@ -2,6 +2,8 @@
 
 let firstName: string | null;
 firstName = 'Dan';
+//firstName = undefine;
+//firstNmae = null;
 
 let age: number;
 age = 45;
